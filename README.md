@@ -5,7 +5,6 @@ the button the webiste will change color and that color code will be displayed.E
 
 Screenshots
  ![](s1.jpg)
- ![](s2.jpg)
- ![](s3.jpg)
+ 
 
 Hope You liked my project.
